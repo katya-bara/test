@@ -1,4 +1,4 @@
 <?
 
-echo "Privet kak dela?2";
+echo "test123";
 ?>
